@@ -1,4 +1,4 @@
-# Cotação de Ações Atualizadas em Python
+# Cotação de Ações Atualizadas em Python + envio de e-mail
 A ideia desse projeto seria pegar algumas cotações de empresas na bolsa de valores, capturar os valores, gerar e armazenar gráficos e enviar automaticamente no e-mail desejado
 
 Esse projeto foi desenvolvido todo em python e as bibliotecas utilizadas foram:
