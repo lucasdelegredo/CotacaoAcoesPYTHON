@@ -33,4 +33,7 @@ Com esse código em Python criado, implementei juntamente com o Agendados de tar
 
 ![image](https://user-images.githubusercontent.com/74476423/169717578-4258f362-286d-44ae-a988-fbee777e4ca0.png)
 
+As informações chegam no meu e-mail dessa forma:
+
+![image](https://user-images.githubusercontent.com/74476423/169717744-68a871d0-dac3-4b3f-8e10-d1a1d2f11e96.png)
 
