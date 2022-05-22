@@ -1,4 +1,4 @@
-# Cotação de Ações Atualizadas em Python + envio de e-mail
+# Cotação de Ações Atualizadas em Python + e-mail automático
 A ideia desse projeto seria pegar algumas cotações de empresas na bolsa de valores, capturar os valores, gerar e armazenar gráficos e enviar automaticamente no e-mail desejado
 
 Esse projeto foi desenvolvido todo em python e as bibliotecas utilizadas foram:
@@ -29,5 +29,8 @@ Criando então a instrução para enviar os emails com informações do datafram
 
 ![image](https://user-images.githubusercontent.com/74476423/169717423-9eb20e70-95aa-402a-bbc3-a3ddadba9453.png)
 
+Com esse código em Python criado, implementei juntamente com o Agendados de tarefas para executar esse Código as 19:00PM para enviar no meu e-mail as cotações atualizadas depois do fechamento da Bolsa
+
+![image](https://user-images.githubusercontent.com/74476423/169717578-4258f362-286d-44ae-a988-fbee777e4ca0.png)
 
 
